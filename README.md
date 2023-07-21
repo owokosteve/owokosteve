@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 I'm Steve, a Web Developer and Graphic Designer living in Kisumu, Kenya.
 
-### Projects
+## Projects
  - [Dijidaro](https://www.dijidaro.co.ke/), an open source free educational revision materials reporsitory for students, educators and parents.
 
-### Contact Me
+## Contact Me
 You can reach me at [stephenowoko2@gmail.com](mailto=stephenowoko2@gmail.com)
 
 
