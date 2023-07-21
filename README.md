@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+I'm Steve, a Web Developer and Graphic Designer living in Kisumu, Kenya.
+
+### Projects
+ - [Dijidaro](https://www.dijidaro.co.ke/), an open source free educational revision materials reporsitory for students, educators and parents.
+
+### Contact Me
+You can reach me at [stephenowoko2@gmail.com](mailto=stephenowoko2@gmail.com)
+
 
 <!--
 **owokosteve/owokosteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
