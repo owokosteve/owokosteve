@@ -2,7 +2,7 @@
 I'm Steve, a Web Developer and Graphic Designer living in Kisumu, Kenya.
 
 ## Projects
- - [Dijidaro](https://www.dijidaro.co.ke/), an open source free educational revision materials reporsitory for students, educators and parents.
+ - [Dijidaro](https://dijidaro-app-5b17b822a5f3.herokuapp.com/), an open source free educational revision materials reporsitory for students, educators and parents.
 
 ## Contact Me
 You can reach me at [stephenowoko2@gmail.com](mailto=stephenowoko2@gmail.com)
