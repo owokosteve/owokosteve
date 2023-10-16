@@ -6,7 +6,7 @@ I'm Steve, a Web Developer and Graphic Designer living in Nairobi, Kenya.
 
 ## Books I'm currently reading
 1. [The Downing Of Flight Six Heavy](https://www.amazon.com/Downing-Flight-Six-Perry-Lafferty/dp/1556112130/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
-2. [Algorithims to Live By: The Computer Science of Human Decisions]([https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6/ref=sr_1_1?adgrpid=80389610094&hvadid=673523133796&hvdev=c&hvlocphy=9063091&hvnetw=g&hvqmt=e&hvrand=13555281792356603953&hvtargid=kwd-300531550968&hydadcr=2775_13713685&keywords=algorithms+to+live+by&qid=1697438222&sr=8-1](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697438222&sr=8-1))
+2. [Algorithims to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365#:~:text=In%20a%20dazzlingly%20interdisciplinary%20work,best%20to%20connect%20with%20others.)
 3. [Computer Systems; A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
 
 ## Contact Me
