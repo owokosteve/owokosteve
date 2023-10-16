@@ -1,8 +1,13 @@
 # Hi there 👋
-I'm Steve, a Web Developer and Graphic Designer living in Kisumu, Kenya.
+I'm Steve, a Web Developer and Graphic Designer living in Nairobi, Kenya.
 
 ## Projects
  - [Dijidaro](https://dijidaro-app-5b17b822a5f3.herokuapp.com/), an open source free educational revision materials reporsitory for students, educators and parents.
+
+## Books I'm currently reading
+1. The Dawn Of Flight Six Heavy
+2. Algorithims to live by
+3. Computer Systems; A Programmer's Perspective
 
 ## Contact Me
 You can reach me at [stephenowoko2@gmail.com](mailto=stephenowoko2@gmail.com)
